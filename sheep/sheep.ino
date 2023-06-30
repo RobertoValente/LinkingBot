@@ -123,7 +123,8 @@ void loop()
               
               one.move(-40,40);
               piscaRed();
-              delay(28000); 
+              delay(28000);
+              currentMillis=millis();
 
             }
             else
@@ -137,18 +138,18 @@ void loop()
                 delay(1225);
                 one.stop();
                 delay(4800);
-                one.move(-25,-25);
-                delay(725);//14000
+                one.move(-38,-38);
+                delay(1225);//14000
                 one.stop();
                 delay(1500);//15500
                 one.move(-40,40);
                 delay(2000);//17500
                 one.stop();
                 delay(500);//18000
-                one.move(-40,-40);
+                one.move(20,20);
                 delay(2000);
                 one.move(20,20);
-                delay(1000);
+                delay(500);
                 one.stop();
                 delay(2775);
                 offLeds();

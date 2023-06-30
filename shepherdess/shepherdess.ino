@@ -86,7 +86,7 @@ void piscaRandom() {
 }
 void oval(){
   cont=1;
-  LedsBrancos();
+  piscaRandom();
   one.move(32,32);
   delay(4000);
   one.move(15,53);
@@ -132,7 +132,7 @@ void loop()
   //necessita de delay de (15(15000)-tempo de inicializacao do bnr)sec;para testes esta 2000 MUDAR !!!!!
   if (currentMillis>44000){
 
-    if (currentMillis>116000)
+    if (currentMillis>117000)
     {
       apagarLeds();
       one.stop();
