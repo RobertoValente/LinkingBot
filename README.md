@@ -1,4 +1,4 @@
-# LinkingBot
+# LinkingBot 🇵🇹
 A team with dreams and objectives that born on High School of Santa Maria da Feira in Portugal! 
 
 # 📌 About the Repository
