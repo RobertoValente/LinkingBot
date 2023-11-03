@@ -13,5 +13,5 @@ Here, you will have the oportunity to see the last version and the full code of 
 - **News in 'Correio da Feira': [Click here](https://www.correiodafeira.pt/equipa-da-secundaria-da-feira-participou-na-robocup23-em-bordeus/)**
 
 # 📝 About the Team
-Our team already had other names and teammates but for RoboCup, our team was formed by: [Roberto](https://github.com/RobertoValente), [Vasco](https://github.com/VascoMagolo), Miguel, Samuel, Beatriz and our mentor was Fátima Pais. I will not mention everyone that helped in any way to we go and participate in RoboCup because it will take a long list but... 
+Our team already had other names and teammates but for RoboCup, our team was formed by: [Roberto](https://github.com/RobertoValente), [Vasco](https://github.com/VascoMagolo), [Miguel](https://github.com/migguelc), Samuel, Beatriz and our mentor was Fátima Pais. I will not mention everyone that helped in any way to we go and participate in RoboCup because it will take a long list but... 
 <br><br>➜ **THANK YOU SO MUCH!! Without your help, nothing was possible. ❤️**
